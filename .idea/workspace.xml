@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09713b78-0812-498c-ba2a-f16c37e8c2c6" name="Changes" comment="добавлены кнопки">
+    <list default="true" id="09713b78-0812-498c-ba2a-f16c37e8c2c6" name="Changes" comment="добавлены функции с математическими операциями">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730635756727</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="добавлены функции с математическими операциями">
+      <option name="closed" value="true" />
+      <created>1730636291275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730636291275</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="тестовый коммит" />
     <MESSAGE value="добавлены кнопки" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены кнопки" />
+    <MESSAGE value="добавлены функции с математическими операциями" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлены функции с математическими операциями" />
   </component>
 </project>
